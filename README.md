@@ -1,2 +1,2 @@
-# audiobook
-read any audio book using 12 lines of python
+# AudioBook
+Reading books with 12 lines of python code
